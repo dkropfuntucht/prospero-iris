@@ -1,4 +1,4 @@
-(defproject prospero/iris "0.1.0"
+(defproject prospero/iris "0.1.1"
   :description "Iris React renderer for Prospoero"
   :url "https://github.com/dkropfuntucht/prospero-iris"
   :license {:name "EPL-2.0"

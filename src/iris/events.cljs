@@ -14,6 +14,10 @@
     "ArrowUp"    ::proevent/key-arrow-up
     "ArrowDown"  ::proevent/key-arrow-down
 
+    "Backspace"  ::proevent/key-backspace
+    "Delete"     ::proevent/key-delete
+    "Pause"      ::proevent/key-pause
+
     "KeyA"       ::proevent/key-letter-a
     "KeyB"       ::proevent/key-letter-b
     "KeyC"       ::proevent/key-letter-c
